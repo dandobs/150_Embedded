@@ -1,5 +1,5 @@
 # 150_Embedded
-////////////////////////////////////////////
+
 This project was made to mimic a laser doorway such that the number of objects entering/leaving a ‘room’ is recorded. 
 This is done by reading the number of breaks in a laser’s path, as sensed by a photodiode. 
 The project also incorporates debouncing with hysteresis to increase the effectiveness of the 
